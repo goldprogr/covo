@@ -1,17 +1,17 @@
-Vivo Core staging tree 0.12.1
+Covo Core staging tree 0.12.1
 ===============================
 
 `master:` [![Build Status](https://travis-ci.org/vivocoin/vivo.svg?branch=master)](https://travis-ci.org/vivocoin/vivo) `v0.12.0.x:` [![Build Status](https://travis-ci.org/vivocoin/vivo.svg?branch=v0.12.0.x)](https://travis-ci.org/vivocoin/vivo/branches) `v0.12.1.x:` [![Build Status](https://travis-ci.org/vivocoin/vivo.svg?branch=v0.12.1.x)](https://travis-ci.org/vivocoin/vivo/branches)
 
-https://www.vivocrypto.com
 
 
-What is Vivo?
+
+What is covo?
 ----------------
 
-VIVO is an advanced, decentralized and secure digital currency. Based on Dash, it's an enhanced and further developed version, featuring the masternode technology, near-instant and secure payments as well as anonymous transactions. With a fast block time of only 2 minutes, transactions will usually confirm and be successfully processed very quickly. VIVO's blockchain uses the advanced NeoScrypt Proof-of-Work algorithm to secure the network. NeoScrypt is ASIC resistant and ensures a fair and stable return on investment for the miners.
+covo is an advanced, decentralized and secure digital currency. Based on Dash, it's an enhanced and further developed version, featuring the masternode technology, near-instant and secure payments as well as anonymous transactions. With a fast block time of only 2 minutes, transactions will usually confirm and be successfully processed very quickly. VIVO's blockchain uses the advanced NeoScrypt Proof-of-Work algorithm to secure the network. NeoScrypt is ASIC resistant and ensures a fair and stable return on investment for the miners.
  
-Additional information, wallets, specifications & roadmap: https://bitcointalk.org/index.php?topic=2110690.0
+Additional information, wallets, specifications & roadmap
 
 
 License
